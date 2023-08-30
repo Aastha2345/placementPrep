@@ -9,7 +9,7 @@ public class bitwiseOperator{
         System.out.println("a ^ b = "+ (a ^ b));
 
         // left shift and right shift oprators
-        int c=10;
+        int c = 10;
         System.out.println("c << 2 = " + (c<<2)); // left shift
         System.out.println("c >> 2 = " + (c>>2)); // right shift
     }
